@@ -1,0 +1,12 @@
+**check-box: allow for http**
+
+sudo apt-get update
+sudo apt-get install webfs
+sudo webfsd -p 80 -r /home/heather_hurley1418
+curl localhost
+cd /etc/webfsd/conf.d
+
+**upload picture**
+
+pwd
+ls
