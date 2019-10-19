@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t hurl6056/Microservices 
+docker build -t hurl6056/microservices 
